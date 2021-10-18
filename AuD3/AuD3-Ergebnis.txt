@@ -1,0 +1,10 @@
+Die Höhe beim erstellen des Baumes:
+zwischen 27 und 30
+Validierung: true
+
+Die Höhe nach dem Entfernen von Knoten:
+um 2 bis 3 Einheiten kleiner
+Validierung: true
+
+Manipulation durch Wertetausch von root.left und root.right:
+Validierung: false

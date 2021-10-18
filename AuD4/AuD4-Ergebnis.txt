@@ -1,0 +1,20 @@
+Höhe des Baumes:
+15-16
+
+Anzahl an schwarze Knoten pro Zweig:
+8-9
+
+Validierung: true
+
+Manipulate1 (Wurzel rot färben):
+Valid: false
+
+Manipulate2 (Rot und rot folgen nacheinander):
+Valid: false
+
+Manipulate3 (Ganzen Pfad schwarz färben -> 
+	Pfade haben unterschiedliche Anzahl an schwarze Knoten):
+Valid: false
+
+Manipulate4 (Wertetausch -> Zerstörung des BSTs):
+Valid: false
